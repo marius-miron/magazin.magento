@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <cms_index_index>
+        <reference name="content">
+            <block type="marius_info/task" name="marius.task" template="marius/info/task.phtml">
+                <block type="marius_info/calculator" name="marius.calculator" template="marius/info/calculator.phtml" />
+            </block>
+        </reference>
+
+    </cms_index_index>
+</layout>

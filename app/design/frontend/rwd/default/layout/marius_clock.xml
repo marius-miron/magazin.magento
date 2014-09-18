@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <cms_index_index>
+        <reference name="left">
+            <block type="marius_clock/clock" name="marius.clock" template="marius/clock/clock.phtml"/>
+        </reference>
+        <reference name="right">
+            <block type="marius_clock/location" name="marius.location" template="marius/clock/location.phtml"/>
+        </reference>
+    </cms_index_index>
+</layout>

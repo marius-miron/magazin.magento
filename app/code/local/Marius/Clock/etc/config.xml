@@ -1,0 +1,23 @@
+<config>
+     <modules>
+        <Marius_Clock>
+            <version>0.2</version>
+        </Marius_Clock>
+    </modules>
+    <global>
+        <blocks>
+            <marius_clock>
+                <class>Marius_Clock_Block</class>
+            </marius_clock>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <marius_clock>
+                    <file>marius_clock.xml</file>
+                </marius_clock>
+            </updates>
+        </layout>
+    </frontend>
+</config>

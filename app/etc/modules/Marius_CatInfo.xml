@@ -1,0 +1,8 @@
+<config>
+  <modules>
+    <Marius_CatInfo>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Marius_CatInfo>
+  </modules>
+</config>

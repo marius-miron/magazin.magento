@@ -1,0 +1,8 @@
+<config>
+  <modules>
+    <Marius_Clock>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Marius_Clock>
+  </modules>
+</config>

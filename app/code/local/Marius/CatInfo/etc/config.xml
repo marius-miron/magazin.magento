@@ -1,0 +1,23 @@
+<config>
+     <modules>
+        <Marius_CatInfo>
+            <version>0.2</version>
+        </Marius_CatInfo>
+    </modules>
+    <global>
+        <blocks>
+            <marius_catinfo>
+                <class>Marius_CatInfo_Block</class>
+            </marius_catinfo>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <marius_catinfo>
+                    <file>marius_catinfo.xml</file>
+                </marius_catinfo>
+            </updates>
+        </layout>
+    </frontend>
+</config>

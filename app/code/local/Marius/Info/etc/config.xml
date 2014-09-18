@@ -1,0 +1,23 @@
+<config>
+     <modules>
+        <Marius_Info>
+            <version>0.2</version>
+        </Marius_Info>
+    </modules>
+    <global>
+        <blocks>
+            <marius_info>
+                <class>Marius_Info_Block</class>
+            </marius_info>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <marius_info>
+                    <file>marius_info.xml</file>
+                </marius_info>
+            </updates>
+        </layout>
+    </frontend>
+</config>
